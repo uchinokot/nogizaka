@@ -1,5 +1,7 @@
 require "nogizaka/version"
 
 module Nogizaka
-  # Your code goes here...
+  def self.method_missing(name, *args, &block)
+    Nogizaka::Core.instance.send(name, *args, &block)
+  end
 end
