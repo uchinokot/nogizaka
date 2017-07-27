@@ -1,0 +1,299 @@
+manatsu_akimoto:
+  id: 1
+  key_name: manatsu_akimoto
+  name: 秋元真夏
+  entry_period: 1st
+#######################################################
+ikuta_erika:
+  id: 2
+  key_name: ikuta_erika
+  name: 生田絵梨花
+  entry_period: 1st
+#######################################################
+ikoma_rina:
+  id: 3
+  key_name: ikoma_rina
+  name: 生駒里奈
+  entry_period: 1st
+#######################################################
+ito_marika:
+  id: 4
+  key_name: ito_marika
+  name: 伊藤万理華
+  entry_period: 1st
+#######################################################
+inoue_sayuri:
+  id: 5
+  key_name: inoue_sayuri
+  name: 井上小百合
+  entry_period: 1st
+#######################################################
+eto_misa:
+  id: 6
+  key_name: eto_misa
+  name: 衛藤美彩
+  entry_period: 1st
+#######################################################
+kawago_hina:
+  id: 7
+  key_name: kawago_hina
+  name: 川後陽菜
+  entry_period: 1st
+#######################################################
+kawamura_mahiro:
+  id: 8
+  key_name: kawamura_mahiro
+  name: 川村真洋
+  entry_period: 1st
+#######################################################
+saito_asuka:
+  id: 9
+  key_name: saito_asuka
+  name: 齋藤飛鳥
+  entry_period: 1st
+#######################################################
+saito_chiharu:
+  id: 10
+  key_name: saito_chiharu
+  name: 斎藤ちはる
+  entry_period: 1st
+#######################################################
+saito_yuuri:
+  id: 11
+  key_name: saito_yuuri
+  name: 斉藤優里
+  entry_period: 1st
+#######################################################
+sakurai_reika:
+  id: 12
+  key_name: sakurai_reika
+  name: 桜井玲香
+  entry_period: 1st
+#######################################################
+shiraishi_mai:
+  id: 13
+  key_name: shiraishi_mai
+  name: 白石麻衣
+  entry_period: 1st
+#######################################################
+takayama_kazumi:
+  id: 14
+  key_name: takayama_kazumi
+  name: 高山一実
+  entry_period: 1st
+#######################################################
+nakada_kana:
+  id: 15
+  key_name: nakada_kana
+  name: 中田花奈
+  entry_period: 1st
+#######################################################
+nakamoto_himeka:
+  id: 16
+  key_name: nakamoto_himeka
+  name: 中元日芽香
+  entry_period: 1st
+#######################################################
+nishino_nanase:
+  id: 17
+  key_name: nishino_nanase
+  name: 西野七瀬
+  entry_period: 1st
+#######################################################
+noujo_ami:
+  id: 18
+  key_name: noujo_ami
+  name: 能條愛未
+  entry_period: 1st
+#######################################################
+higuchi_hina:
+  id: 19
+  key_name: higuchi_hina
+  name: 樋口日奈
+  entry_period: 1st
+#######################################################
+hoshino_minami:
+  id: 20
+  key_name: hoshino_minami
+  name: 星野みなみ
+  entry_period: 1st
+#######################################################
+matsumura_sayuri:
+  id: 21
+  key_name: matsumura_sayuri
+  name: 松村沙友理
+  entry_period: 1st
+#######################################################
+wakatsuki_yumi:
+  id: 22
+  key_name: wakatsuki_yumi
+  name: 若月佑美
+  entry_period: 1st
+#######################################################
+wada_maaya:
+  id: 23
+  key_name: wada_maaya
+  name: 和田まあや
+  entry_period: 1st
+#######################################################
+ito_karin:
+  id: 24
+  key_name: ito_karin
+  name: 伊藤かりん
+  entry_period: 2nd
+#######################################################
+ito_jyunna:
+  id: 25
+  key_name: ito_jyunna
+  name: 伊藤純奈
+  entry_period: 2nd
+#######################################################
+kitano_hinako:
+  id: 26
+  key_name: kitano_hinako
+  name: 北野日奈子
+  entry_period: 2nd
+#######################################################
+sagara_iori:
+  id: 27
+  key_name: sagara_iori
+  name: 相楽伊織
+  entry_period: 2nd
+#######################################################
+sasaki_kotoko:
+  id: 28
+  key_name: sasaki_kotoko
+  name: 佐々木琴子
+  entry_period: 2nd
+#######################################################
+shinuchi_mai:
+  id: 29
+  key_name: shinuchi_mai
+  name: 新内眞衣
+  entry_period: 2nd
+#######################################################
+suzuki_ayane:
+  id: 30 
+  key_name: suzuki_ayane
+  name: 鈴木絢音
+  entry_period: 2nd
+#######################################################
+terada_ranze:
+  id: 31
+  key_name: terada_ranze
+  name: 寺田蘭世
+  entry_period: 2nd
+#######################################################
+hori_miona:
+  id: 32
+  key_name: hori_miona
+  name: 堀未央奈
+  entry_period: 2nd
+#######################################################
+yamazaki_reika:
+  id: 33
+  key_name: yamazaki_reika
+  name: 山﨑怜奈
+  entry_period: 2nd
+#######################################################
+watanabe_miria:
+  id: 34
+  key_name: watanabe_miria
+  name: 渡辺みり愛
+  entry_period: 2nd
+#######################################################
+ito_riria:
+  id: 35
+  key_name: ito_riria
+  name: 伊藤理々杏
+  entry_period: 3rd
+#######################################################
+iwamoto_renka:
+  id: 36
+  key_name: iwamoto_renka
+  name: 岩本蓮加
+  entry_period: 3rd
+#######################################################
+umezawa_minami:
+  id: 37
+  key_name: umezawa_minami
+  name: 梅澤美波
+  entry_period: 3rd
+#######################################################
+ozono_momoko:
+  id: 38
+  key_name: ozono_momoko
+  name: 大園桃子
+  entry_period: 3rd
+#######################################################
+kubo_shiori:
+  id: 39
+  key_name: kubo_shiori
+  name: 久保史緖里
+  entry_period: 3rd
+#######################################################
+sakaguchi_tamami:
+  id: 40
+  key_name: sakaguchi_tamami
+  name: 阪口珠美
+  entry_period: 3rd
+#######################################################
+satoh_kaede:
+  id: 41
+  key_name: satoh_kaede
+  name: 佐藤楓
+  entry_period: 3rd
+#######################################################
+nakamura_reno:
+  id: 42
+  key_name: nakamura_reno
+  name: 中村麗乃
+  entry_period: 3rd
+#######################################################
+mukai_hazuki:
+  id: 43
+  key_name: mukai_hazuki
+  name: 向井葉月
+  entry_period: 3rd
+#######################################################
+yamashita_mitsuki:
+  id: 44
+  key_name: yamashita_mitsuki
+  name: 山下美月
+  entry_period: 3rd
+#######################################################
+yoshida_ayano_christie:
+  id: 45
+  key_name: yoshida_ayano_christie
+  name: 吉田綾乃クリスティー
+  entry_period: 3rd
+#######################################################
+yoda_yuki:
+  id: 46
+  key_name: yoda_yuki
+  name: 与田祐希
+  entry_period: 3rd
+#######################################################
+hashimoto_nanami:
+  id: 47
+  key_name: hashimoto_nanami
+  name: 橋本奈々未
+  entry_period: 1st
+#######################################################
+fukagawa_mai:
+  id: 48
+  key_name: fukagawa_mai
+  name: 深川麻衣
+  entry_period: 1st
+#######################################################
+nagashima_seira:
+  id: 49
+  key_name: nagashima_seira
+  name: 永島聖羅
+  entry_period: 1st
+#######################################################
+matsui_rena:
+  id: 50
+  key_name: matsui_rena
+  name: 松井玲奈
+  entry_period: 1st
