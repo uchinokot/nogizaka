@@ -5,5 +5,11 @@ module Nogizaka
   class Member < ActiveYaml::Base
     set_root_path ("#{File.dirname(__FILE__)}/../../config")
     set_filename 'members'
+
+    class << self
+      def names
+        all.map(&:name)
+      end
+    end
   end
 end
