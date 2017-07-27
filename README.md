@@ -38,7 +38,7 @@ Nogizaka::Member.find_by(name: "渡辺みり愛")
 nigemizu = Nogizaka::Single.last
 #=> #<Nogizaka::Single:0x007fa45f107d58 @attributes={:id=>18, :title=>"逃げ水", :members=>{"third"=>[4, 29, 3, 12, 22, 5], "second"=>[20, 21, 2, 1, 6, 14], "front"=>[9, 13, 38, 46, 17, 32]}}>
 
-nigemizu.select_members
+nigemizu.selected_members
 #=> ["伊藤万理華", "新内眞衣", "生駒里奈", "桜井玲香", "若月佑美", "井上小百合", "星野みなみ", "松村沙友理", "生田絵梨花", "秋元真夏", "衛藤美彩", "高山一実", "齋藤飛鳥", "白石麻衣", "大園桃子", "与田祐希", "西野七瀬", "堀未央奈"]
 
 nigemizu.formation

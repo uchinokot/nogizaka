@@ -6,7 +6,7 @@ module Nogizaka
     set_root_path ("#{File.dirname(__FILE__)}/../../config")
     set_filename 'singles'
 
-    def select_members
+    def selected_members
       members.values.flatten.map { |member| Nogizaka::Member.find(member).name }
     end
 
