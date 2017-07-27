@@ -13,7 +13,7 @@ module Nogizaka
     def formation
       members.each_with_index do |values, i|
         row_members = values[1].map { |member| Nogizaka::Member.find(member).name }
-        puts "#{i+1}列目 | #{row_members.join(" | ")}"
+        puts "#{3-i}列目 | #{row_members.join(" | ")}"
       end
     end
 
